@@ -1,0 +1,66 @@
+{
+  "England": {
+    "South East": {
+      "Kent": {
+        "Canterbury": {
+          "Wincheap": ["CT1"],
+          "St. Dunstan's": ["CT2"]
+        },
+        "Maidstone": {
+          "Penenden Heath": ["ME14"],
+          "Shepway": ["ME15"]
+        },
+        "Dover": {
+          "Buckland": ["CT16"],
+          "Tower Hamlets": ["CT17"]
+        },
+        "Ashford": {
+          "Town Centre": ["TN23"],
+          "Kennington": ["TN24"]
+        },
+        "Folkestone": {
+          "Cheriton": ["CT19"],
+          "Sandgate": ["CT20"]
+        },
+        "Tunbridge Wells": {
+          "Royal Tunbridge Wells": ["TN1"],
+          "Southborough": ["TN4"]
+        },
+        "Margate": {
+          "Cliftonville": ["CT9"],
+          "Garlinge": ["CT9"]
+        }
+      },
+      "West Sussex": {
+        "Chichester": {
+          "Fishbourne": ["PO19"],
+          "Whyke": ["PO19"]
+        },
+        "Worthing": {
+          "Broadwater": ["BN14"],
+          "Goring-by-Sea": ["BN12"]
+        },
+        "Crawley": {
+          "Pound Hill": ["RH10"],
+          "Ifield": ["RH11"]
+        },
+        "Horsham": {
+          "Roffey": ["RH12"],
+          "Holbrook": ["RH12"]
+        },
+        "Bognor Regis": {
+          "Felpham": ["PO22"],
+          "Aldwick": ["PO21"]
+        },
+        "Littlehampton": {
+          "Wick": ["BN17"],
+          "Rustington": ["BN16"]
+        },
+        "Haywards Heath": {
+          "Lindfield": ["RH16"],
+          "Franklands Village": ["RH16"]
+        }
+      }
+    }
+  }
+}

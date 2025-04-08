@@ -1,0 +1,18 @@
+[
+  {
+    "name": "Placeholder Chippy",
+    "address_postcode": "PL1 1AA",
+    "phone": "0123456789",
+    "tags": ["placeholder", "fish", "chips"],
+    "post_code_prefix": "PL1",
+    "description": "A placeholder fish and chip shop."
+  },
+  {
+    "name": "Another Placeholder Ltd",
+    "address_postcode": "SW1A 0AA",
+    "website": "https://example.com",
+    "tags": ["placeholder", "business"],
+    "post_code_prefix": "SW1A",
+    "description": "Another placeholder business entry."
+  }
+]

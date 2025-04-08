@@ -1,0 +1,157 @@
+[
+  {
+    "city": "Canterbury",
+    "post_code_prefix": "CT1",
+    "listings": [
+      {
+        "name": "Papa's The Deep Blue",
+        "address": "12 St Peter's St, Canterbury, Kent CT1 2BQ, UK",
+        "phone": "+44 1227 456789",
+        "coordinates": {"lat": 51.2798, "lng": 1.0832},
+        "customer_reviews": [
+          {"review": "Best fish and chips in town! Crispy batter and fresh fish.", "rating": 5},
+          {"review": "Good portions and friendly staff.", "rating": 4}
+        ],
+        "business_hours": {
+          "mon-fri": "11:30-21:00",
+          "sat": "11:30-22:00",
+          "sun": "12:00-20:00"
+        },
+        "menu": [
+          {"item": "Cod & Chips", "price_gbp": 8.5},
+          {"item": "Haddock & Chips", "price_gbp": 9.0},
+          {"item": "Fish Cake", "price_gbp": 3.0},
+          {"item": "Chips", "price_gbp": 2.5}
+        ],
+        "social_media": {
+          "facebook": "https://facebook.com/papasthedeepblue",
+          "instagram": "https://instagram.com/papasthedeepblue"
+        },
+        "delivery_links": {
+          "justeat": "https://www.justeat.co.uk/restaurants-papasthedeepblue-canterbury",
+          "ubereats": "https://www.ubereats.com/gb/store/papas-the-deep-blue"
+        },
+        "specialities": ["Traditional Cod", "Homemade Tartare Sauce"],
+        "dine_in": true,
+        "tags": ["family-friendly", "takeaway", "seafood"]
+      },
+      {
+        "name": "Marino's Fish Bar",
+        "address": "159 Wincheap, Canterbury, Kent CT1 3SE, UK",
+        "phone": "+44 1227 765432",
+        "coordinates": {"lat": 51.2741, "lng": 1.0695},
+        "customer_reviews": [
+          {"review": "Great value and quick service.", "rating": 4},
+          {"review": "Loved the crispy chips!", "rating": 5}
+        ],
+        "business_hours": {
+          "mon-sat": "11:00-22:00",
+          "sun": "12:00-20:00"
+        },
+        "menu": [
+          {"item": "Plaice & Chips", "price_gbp": 8.0},
+          {"item": "Sausage & Chips", "price_gbp": 4.5},
+          {"item": "Scampi", "price_gbp": 6.5},
+          {"item": "Chips", "price_gbp": 2.0}
+        ],
+        "social_media": {
+          "facebook": "https://facebook.com/marinosfishbar"
+        },
+        "delivery_links": {
+          "deliveroo": "https://deliveroo.co.uk/menu/canterbury/marinos-fish-bar"
+        },
+        "specialities": ["Plaice", "Scampi"],
+        "dine_in": false,
+        "tags": ["takeaway", "quick service", "seafood"]
+      },
+      {
+        "name": "City Fish Bar",
+        "address": "45 Burgate, Canterbury, Kent CT1 2HW, UK",
+        "phone": "+44 1227 123456",
+        "coordinates": {"lat": 51.2792, "lng": 1.0845},
+        "customer_reviews": [
+          {"review": "Classic chippy, always fresh.", "rating": 4},
+          {"review": "Nice staff and good prices.", "rating": 4}
+        ],
+        "business_hours": {
+          "mon-sat": "11:30-21:30",
+          "sun": "12:00-19:00"
+        },
+        "menu": [
+          {"item": "Cod & Chips", "price_gbp": 8.0},
+          {"item": "Chicken Nuggets & Chips", "price_gbp": 5.0},
+          {"item": "Mushy Peas", "price_gbp": 1.5}
+        ],
+        "social_media": {},
+        "delivery_links": {},
+        "specialities": ["Cod", "Chicken Nuggets"],
+        "dine_in": false,
+        "tags": ["budget-friendly", "takeaway"]
+      }
+    ]
+  },
+  {
+    "city": "Chichester",
+    "post_code_prefix": "PO19",
+    "listings": [
+      {
+        "name": "Harry's Fish and Chips Ltd",
+        "address": "3 The Hornet, Chichester, West Sussex PO19 7JL, UK",
+        "phone": "+44 1243 654321",
+        "coordinates": {"lat": 50.8367, "lng": -0.7763},
+        "customer_reviews": [
+          {"review": "Delicious fish, generous portions.", "rating": 5},
+          {"review": "Friendly service, will come again.", "rating": 4}
+        ],
+        "business_hours": {
+          "mon-sat": "11:30-21:00",
+          "sun": "12:00-20:00"
+        },
+        "menu": [
+          {"item": "Cod & Chips", "price_gbp": 9.0},
+          {"item": "Haddock & Chips", "price_gbp": 9.5},
+          {"item": "Fish Cake", "price_gbp": 3.5},
+          {"item": "Chips", "price_gbp": 2.8}
+        ],
+        "social_media": {
+          "facebook": "https://facebook.com/harrysfishandchips"
+        },
+        "delivery_links": {
+          "justeat": "https://www.justeat.co.uk/restaurants-harrysfishandchips-chichester"
+        },
+        "specialities": ["Fresh Haddock", "Homemade Fish Cakes"],
+        "dine_in": true,
+        "tags": ["family-friendly", "seafood", "takeaway"]
+      },
+      {
+        "name": "La Fish",
+        "address": "38 The Hornet, Chichester, West Sussex PO19 7JG, UK",
+        "phone": "+44 1243 987654",
+        "coordinates": {"lat": 50.8369, "lng": -0.7759},
+        "customer_reviews": [
+          {"review": "Award-winning fish and chips!", "rating": 5},
+          {"review": "Nice dine-in experience.", "rating": 4}
+        ],
+        "business_hours": {
+          "mon-sat": "11:00-21:30",
+          "sun": "12:00-19:30"
+        },
+        "menu": [
+          {"item": "Cod & Chips", "price_gbp": 9.2},
+          {"item": "Haddock & Chips", "price_gbp": 9.7},
+          {"item": "Saveloy & Chips", "price_gbp": 4.0},
+          {"item": "Chips", "price_gbp": 2.6}
+        ],
+        "social_media": {
+          "facebook": "https://facebook.com/lafishchichester"
+        },
+        "delivery_links": {
+          "ubereats": "https://www.ubereats.com/gb/store/la-fish-chichester"
+        },
+        "specialities": ["Award-winning Cod", "Saveloy"],
+        "dine_in": true,
+        "tags": ["award-winning", "dine-in", "seafood"]
+      }
+    ]
+  }
+]
